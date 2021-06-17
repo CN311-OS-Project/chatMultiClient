@@ -29,6 +29,8 @@ public class Client {
         }
 
         socket.close();
+
+        
         System.exit(0);
     }
 }
